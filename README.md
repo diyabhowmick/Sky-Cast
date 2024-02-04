@@ -15,9 +15,9 @@ git clone https://github.com/yourusername/weather-app.git
 Open index.html in a web browser.
 Enter the city name in the input field and click the search button to get the weather details.
 
-Screenshots:
 
-![Screenshot from 2024-02-04 16-21-28](https://github.com/diyabhowmick/Sky-Cast/assets/116788850/11516b0c-7f3f-4b2b-b292-55fb3cbe5d5e)
+Screenshots:
+![Screenshot from 2024-02-04 16-22-46](https://github.com/diyabhowmick/Sky-Cast/assets/116788850/a0b7ea1a-248a-4cf0-8104-cf2d0e6e85b8)
 ![Screenshot from 2024-02-04 16-21-46](https://github.com/diyabhowmick/Sky-Cast/assets/116788850/d5920cde-e205-410d-b098-f024c2cc591f)
 
 Technologies Used
